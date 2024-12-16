@@ -2,7 +2,7 @@
 
 <a href="https://github.com/mr-chetan" >
     <div align="center">
-        <picture alt="Chetan's GitHub Profile Summary" width="100%" height="auto">
+        <picture alt="Chetan's GitHub Profile Summary" height="180em" alt="Stats">
             <source
                 srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-chetan&&theme=dark"
                 media="(prefers-color-scheme: dark)"
@@ -24,17 +24,6 @@
             />
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mr-chetan&theme=transparent" />
         </picture>
-        <picture height="180em" alt="Top Languages">
-            <source
-                srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mr-chetan&hide_border=true&no-bg=true&no-frame=true&layout=compact&langs_count=10&theme=dark"
-                media="(prefers-color-scheme: dark)"
-            />
-            <source
-                srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mr-chetan&hide_border=true&no-bg=true&no-frame=true&layout=compact&langs_count=10&"
-                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-            />
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-chetan&hide_border=true&no-bg=true&no-frame=true&layout=compact&langs_count=10&theme=transparent" />
-        </picture>
         <picture height="180em" alt="GitHub Streak">
             <source
                 srcset="https://github-readme-streak-stats.herokuapp.com?user=mr-chetan&theme=dark"
@@ -45,6 +34,17 @@
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
             <img src="https://github-readme-streak-stats.herokuapp.com?user=mr-chetan&theme=transparent" />
+        </picture>
+        <picture height="180em" alt="Top Languages">
+            <source
+                srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mr-chetan&hide_border=true&no-bg=true&no-frame=true&layout=compact&langs_count=10&theme=dark"
+                media="(prefers-color-scheme: dark)"
+            />
+            <source
+                srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mr-chetan&hide_border=true&no-bg=true&no-frame=true&layout=compact&langs_count=10&"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-chetan&hide_border=true&no-bg=true&no-frame=true&layout=compact&langs_count=10&theme=transparent" />
         </picture>
         <picture height="180em" alt="Time Graph">
             <source
@@ -57,7 +57,7 @@
             />
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mr-chetan&utcOffset=5.30&theme=transparent" />
         </picture>
-        <picture>
+        <picture height="180em" alt="Stats">
             <source
                 srcset="https://github-readme-stats.vercel.app/api?username=mr-chetan&rank_icon=percentile&show_icons=true&theme=dark"
                 media="(prefers-color-scheme: dark)"
