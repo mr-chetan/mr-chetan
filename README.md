@@ -68,6 +68,15 @@
 -   🌱 Currently learning Flutter
 -   🔥 Passionate Laravel developer with over 5 years of experience crafting secure and scalable web applications
 
+## Skills
+
+-   **Backend Development:** Building robust backend logic and APIs 🛠️
+-   **Code Quality:** Implementing clean and maintainable code 🧹
+-   **Database Integration:** Integrating with various databases and third-party services (MySQL experience) 🗄️
+-   **Version Control:** Experience with Git version control systems (GitHub, GitLab, Bitbucket) 🗂️
+-   **Deployment:** Deploying applications on leading cloud platforms (AWS, Google Cloud, Azure) and managing server environments (cPanel, hPanel, aaPanel, CyberPanel) ☁️
+-   **Frontend Development:** Building dynamic and interactive interfaces using Laravel Livewire, Tailwind CSS, Alpine.js, HTML5, CSS3, SASS/SCSS, Bootstrap, and jQuery 🎨
+
 ## Why Consider Me for Your Project?
 
 -   🔹 **Full-Stack Capabilities:** Strong foundation in both back-end and front-end development, handling all aspects of your project efficiently. ✅
@@ -80,24 +89,6 @@
 -   🔸 **Long-term Support:** Committed to providing ongoing maintenance and support beyond project completion. 🛠️
 -   🔹 **Collaboration:** Able to work independently or integrate seamlessly into your existing team. 🤝
 -   🔸 **Reliable Availability:** Quick turnaround times, clear communication, and flexible availability to meet project deadlines. 📅
-
-## Skills
-
--   **Backend Development:** Building robust backend logic and APIs 🛠️
--   **Code Quality:** Implementing clean and maintainable code 🧹
--   **Database Integration:** Integrating with various databases and third-party services (MySQL experience) 🗄️
--   **Version Control:** Experience with Git version control systems (GitHub, GitLab, Bitbucket) 🗂️
--   **Deployment:** Deploying applications on leading cloud platforms (AWS, Google Cloud, Azure) and managing server environments (cPanel, hPanel, aaPanel, CyberPanel) ☁️
--   **Frontend Development:** Building dynamic and interactive interfaces using Laravel Livewire, Tailwind CSS, Alpine.js, HTML5, CSS3, SASS/SCSS, Bootstrap, and jQuery 🎨
-
-## Get in Touch
-
--   [Email ✉️](mailto:contact@mrchetan.com)
--   [LinkedIn](https://www.linkedin.com/in/mr-chetan/)
-
-## Hire Me
-
--   [Upwork 💼](https://www.upwork.com/freelancers/~01db960e1d4c8b8935?mp_source=share)
 
 ## Fun Fact
 
