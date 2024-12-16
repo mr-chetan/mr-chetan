@@ -52,7 +52,7 @@
 -   🌱 Currently learning Flutter
 -   🔥 Passionate Laravel developer with over 5 years of experience crafting secure and scalable web applications
 
-## Skills
+## Skills <img src="./images/code.gif" width="20"/>
 
 -   **Backend Development:** Building robust backend logic and APIs 🛠️
 -   **Code Quality:** Implementing clean and maintainable code 🧹
@@ -61,7 +61,7 @@
 -   **Deployment:** Deploying applications on leading cloud platforms (AWS, Google Cloud, Azure) and managing server environments (cPanel, hPanel, aaPanel, CyberPanel) ☁️
 -   **Frontend Development:** Building dynamic and interactive interfaces using Laravel Livewire, Tailwind CSS, Alpine.js, HTML5, CSS3, SASS/SCSS, Bootstrap, and jQuery 🎨
 
-## Why Consider Me for Your Project?
+## Why Choose Me for Your Next Project?
 
 -   🔹 **Full-Stack Capabilities:** Strong foundation in both back-end and front-end development, handling all aspects of your project efficiently. ✅
 -   🔸 **Experience & Expertise:** 5+ years of experience in building robust backend logic, APIs, integrating with various technologies, and deploying applications on leading cloud platforms.
