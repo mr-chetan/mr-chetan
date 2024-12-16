@@ -2,19 +2,6 @@
 
 <a href="https://github.com/mr-chetan" >
     <div align="center">
-        <picture alt="Chetan's GitHub Profile Summary" alt="Stats">
-            <source
-                srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-chetan&&theme=dark"
-                media="(prefers-color-scheme: dark)"
-                height="180em"
-            />
-            <source
-                srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-chetan&"
-                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                height="180em"
-            />
-            <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-chetan&&theme=transparent" />
-        </picture>
         <picture alt="Stats">
             <source
                 srcset="https://github-readme-stats.vercel.app/api?username=mr-chetan&hide_border=true&rank_icon=percentile&show_icons=true&theme=dark"
@@ -53,19 +40,6 @@
                 height="180em"
             />
             <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=mr-chetan&hide_border=true&theme=transparent" />
-        </picture>
-        <picture alt="Time Graph">
-            <source
-                srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mr-chetan&utcOffset=5.30&theme=dark"
-                media="(prefers-color-scheme: dark)"
-                height="180em"
-            />
-            <source
-                srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mr-chetan&utcOffset=5.30&"
-                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                height="180em"
-            />
-            <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mr-chetan&utcOffset=5.30&theme=transparent" />
         </picture>
     </div>
 </a>
