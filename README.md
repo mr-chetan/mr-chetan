@@ -1,61 +1,71 @@
-# Hi there, I'm Chetan 👋
+# Hi there, I'm Chetan <img src="./images/hi.gif" width="40"/>
 
 <a href="https://github.com/mr-chetan" >
     <div align="center">
-        <picture alt="Chetan's GitHub Profile Summary" height="180em" alt="Stats">
+        <picture alt="Chetan's GitHub Profile Summary" alt="Stats">
             <source
                 srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-chetan&&theme=dark"
                 media="(prefers-color-scheme: dark)"
+                height="200em"
             />
             <source
                 srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-chetan&"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                height="200em"
             />
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-chetan&&theme=transparent" />
+            <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-chetan&&theme=transparent" />
         </picture>
-        <picture height="180em" alt="Stats">
+        <picture alt="Stats">
             <source
-                srcset="https://github-readme-stats.vercel.app/api?username=mr-chetan&rank_icon=percentile&show_icons=true&theme=dark"
+                srcset="https://github-readme-stats.vercel.app/api?username=mr-chetan&hide_border=true&rank_icon=percentile&show_icons=true&theme=dark"
                 media="(prefers-color-scheme: dark)"
+                height="200em"
             />
             <source
-                srcset="https://github-readme-stats.vercel.app/api?username=mr-chetan&rank_icon=percentile&show_icons=true"
+                srcset="https://github-readme-stats.vercel.app/api?username=mr-chetan&hide_border=true&rank_icon=percentile&show_icons=true"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                height="200em"
             />
-            <img src="https://github-readme-stats.vercel.app/api?username=mr-chetan&rank_icon=percentile&show_icons=true&theme=transparent" />
+            <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mr-chetan&hide_border=true&rank_icon=percentile&show_icons=true&theme=transparent" />
         </picture>
-        <picture height="180em" alt="Top Languages">
+        <picture alt="Top Languages">
             <source
-                srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mr-chetan&hide_border=true&no-bg=true&no-frame=true&layout=compact&langs_count=10&theme=dark"
+                srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mr-chetan&hide_border=true&layout=compact&langs_count=8&theme=dark"
                 media="(prefers-color-scheme: dark)"
+                height="200em"
             />
             <source
-                srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mr-chetan&hide_border=true&no-bg=true&no-frame=true&layout=compact&langs_count=10&"
+                srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mr-chetan&hide_border=true&layout=compact&langs_count=8&"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                height="200em"
             />
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-chetan&hide_border=true&no-bg=true&no-frame=true&layout=compact&langs_count=10&theme=transparent" />
+            <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-chetan&hide_border=true&layout=compact&langs_count=8&theme=transparent" />
         </picture>
-        <picture height="180em" alt="GitHub Streak">
+        <picture alt="GitHub Streak">
             <source
-                srcset="https://github-readme-streak-stats.herokuapp.com?user=mr-chetan&theme=dark"
+                srcset="https://github-readme-streak-stats.herokuapp.com?user=mr-chetan&hide_border=true&theme=dark"
                 media="(prefers-color-scheme: dark)"
+                height="200em"
             />
             <source
-                srcset="https://github-readme-streak-stats.herokuapp.com?user=mr-chetan&"
+                srcset="https://github-readme-streak-stats.herokuapp.com?user=mr-chetan&hide_border=true&"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                height="200em"
             />
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=mr-chetan&theme=transparent" />
+            <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=mr-chetan&hide_border=true&theme=transparent" />
         </picture>
-        <picture height="180em" alt="Time Graph">
+        <picture alt="Time Graph">
             <source
                 srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mr-chetan&utcOffset=5.30&theme=dark"
                 media="(prefers-color-scheme: dark)"
+                height="200em"
             />
             <source
                 srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mr-chetan&utcOffset=5.30&"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                height="200em"
             />
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mr-chetan&utcOffset=5.30&theme=transparent" />
+            <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mr-chetan&utcOffset=5.30&theme=transparent" />
         </picture>
     </div>
 </a>
