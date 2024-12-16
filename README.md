@@ -90,10 +90,5 @@
 -   🔹 **Collaboration:** Able to work independently or integrate seamlessly into your existing team. 🤝
 -   🔸 **Reliable Availability:** Quick turnaround times, clear communication, and flexible availability to meet project deadlines. 📅
 
-## Fun Fact
-
--   I love coding and building new things. I am always eager to learn new technologies and explore the latest trends in the tech world. 💡
--   I am a huge fan of open-source software and actively contribute to various projects. 🌐
--   I enjoy sharing my knowledge and helping others grow in their coding journey. 📚
-
+--------------------------------------------------
 Thanks for visiting my profile! 🙏
