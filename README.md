@@ -22,7 +22,7 @@
                 height="180em"
             />
             <source
-                srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mr-chetan&hide_border=true&layout=compact&langs_count=8&"
+                srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mr-chetan&hide_border=true&layout=compact&langs_count=8"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                 height="180em"
             />
@@ -35,7 +35,7 @@
                 height="180em"
             />
             <source
-                srcset="https://github-readme-streak-stats.herokuapp.com?user=mr-chetan&hide_border=true&"
+                srcset="https://github-readme-streak-stats.herokuapp.com?user=mr-chetan&hide_border=true"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                 height="180em"
             />
