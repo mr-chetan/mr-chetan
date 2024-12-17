@@ -30,16 +30,16 @@
         </picture>
         <picture alt="GitHub Streak">
             <source
-                srcset="https://github-readme-streak-stats.herokuapp.com?user=mr-chetan&hide_border=true&theme=dark"
+                srcset="https://github-readme-streak-stats.devworks.co.in?user=mr-chetan&hide_border=true&theme=dark"
                 media="(prefers-color-scheme: dark)"
                 height="180em"
             />
             <source
-                srcset="https://github-readme-streak-stats.herokuapp.com?user=mr-chetan&hide_border=true"
+                srcset="https://github-readme-streak-stats.devworks.co.in?user=mr-chetan&hide_border=true"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                 height="180em"
             />
-            <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=mr-chetan&hide_border=true&theme=transparent" />
+            <img height="180em" src="https://github-readme-streak-stats.devworks.co.in?user=mr-chetan&hide_border=true&theme=transparent" />
         </picture>
     </div>
 </a>
