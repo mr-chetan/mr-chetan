@@ -4,29 +4,29 @@
     <div align="center">
         <picture alt="Stats">
             <source
-                srcset="https://github-readme-stats.devworks.co.in?username=mr-chetan&hide_border=true&rank_icon=percentile&show_icons=true&theme=dark"
+                srcset="https://github-readme-stats.devworks.co.in?username=mr-chetan&count_private=true&private_contributions=true&hide_border=true&rank_icon=percentile&show_icons=true&theme=dark"
                 media="(prefers-color-scheme: dark)"
                 height="180em"
             />
             <source
-                srcset="https://github-readme-stats.devworks.co.in?username=mr-chetan&hide_border=true&rank_icon=percentile&show_icons=true"
+                srcset="https://github-readme-stats.devworks.co.in?username=mr-chetan&count_private=true&private_contributions=true&hide_border=true&rank_icon=percentile&show_icons=true"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                 height="180em"
             />
-            <img height="180em" src="https://github-readme-stats.devworks.co.in?username=mr-chetan&hide_border=true&rank_icon=percentile&show_icons=true&theme=transparent" />
+            <img height="180em" src="https://github-readme-stats.devworks.co.in?username=mr-chetan&count_private=true&private_contributions=true&hide_border=true&rank_icon=percentile&show_icons=true&theme=transparent" />
         </picture>
         <picture alt="Top Languages">
             <source
-                srcset="https://github-readme-stats.devworks.co.in/top-langs?username=mr-chetan&hide_border=true&layout=compact&langs_count=8&theme=dark"
+                srcset="https://github-readme-stats.devworks.co.in/top-langs?username=mr-chetan&count_private=true&private_contributions=true&hide_border=true&layout=compact&langs_count=8&theme=dark"
                 media="(prefers-color-scheme: dark)"
                 height="180em"
             />
             <source
-                srcset="https://github-readme-stats.devworks.co.in/top-langs?username=mr-chetan&hide_border=true&layout=compact&langs_count=8"
+                srcset="https://github-readme-stats.devworks.co.in/top-langs?username=mr-chetan&count_private=true&private_contributions=true&hide_border=true&layout=compact&langs_count=8"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                 height="180em"
             />
-            <img height="180em" src="https://github-readme-stats.devworks.co.in/top-langs?username=mr-chetan&hide_border=true&layout=compact&langs_count=8&theme=transparent" />
+            <img height="180em" src="https://github-readme-stats.devworks.co.in/top-langs?username=mr-chetan&count_private=true&private_contributions=true&hide_border=true&layout=compact&langs_count=8&theme=transparent" />
         </picture>
         <picture alt="GitHub Streak">
             <source
